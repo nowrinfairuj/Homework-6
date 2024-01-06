@@ -1,0 +1,25 @@
+/*Css reset*/
+*{margin:5px;
+padding:0px;}
+/*backround image*/
+body{background-image: url(../images/rose.jpg)}
+/*header styling*/
+#top{color:black;
+text-align: center;
+font-size: 50px;font-family: 'ubuntomono',monospace;
+text-shadow: 2px 2px}
+#top1{color: black;
+text-align: center;
+font-size:30px;font-family: 'ubuntomono',monospace;}
+
+/*css in shop*/
+p{text-align: center;
+font-size: 20px;}
+
+
+ div img{border: 2px solid; 
+ 	box-shadow:4px 7px 7px 0px;
+ 	cursor: pointer;margin: 10px;transition: 400ms}
+
+
+ 	
